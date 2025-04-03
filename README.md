@@ -1,1 +1,1 @@
-# SQL_Insights
+# SQL_E-commerce_Insights
